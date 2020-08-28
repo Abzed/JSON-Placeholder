@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+h2{
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+li{
+    border: 1px solid brown;
+    background: #e74c3c;
+    color: black;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+button{
+    border-radius: 15px;
+}
